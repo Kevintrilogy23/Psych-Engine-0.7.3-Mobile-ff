@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Psych Engine
+# Friday Night Funkin' - Psych Engine Mobile
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -18,6 +18,10 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 ## Credits:
 * Shadow Mario - Programmer
 * Riveren - Artist
+
+## Credits Mobile:
+* StarNova (Cream.BR) - Programmer
+* FNF BR - Programmer
 
 ### Special Thanks
 * bbpanzu - Ex-Programmer
